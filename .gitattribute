@@ -1,0 +1,3 @@
+# Mark all NumPy data files as binary
+*.npy binary
+*.npz binary
